@@ -1,0 +1,1 @@
+# Automated-Handwritten-Text-Recognition-for-Historical-Archives
